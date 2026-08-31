@@ -10,3 +10,7 @@
 - [팩토리 패턴](./Factory.md)
 - [전략 패턴](./Strategy.md)
 - [옵저버 패턴](./Observer.md)
+- [프록시 패턴](./Proxy.md)
+- [이터레이터 패턴](./Iterator.md)
+- [노출모듈 패턴](./RevealingModule.md)
+- [MVC 패턴](./MVC.md)
